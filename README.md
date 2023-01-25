@@ -1,4 +1,5 @@
 # KT session
 
 hello team
-Good class
+Good class!
+bright day
